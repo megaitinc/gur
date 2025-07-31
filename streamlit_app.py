@@ -51,7 +51,7 @@ st.markdown("""
 
 # Logo/title
 st.markdown("<h1 class='centered' style='color:#4285F4;'>Gurug</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center;'>शीर्षक दिएर गित, कथा, कविता लेख्न लगाउनुहोस् वा खोज्नुहोस्।</p>", unsafe_allow_html=True)
+
 
 # Input with placeholder
 placeholder_text = "शीर्षक दियर गित, कथा, कविता, लेख्न लगाऊनुहोस वा खोज्नुहोस.."
